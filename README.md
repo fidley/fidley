@@ -46,6 +46,17 @@ Some of my work:
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 [![issues - HelpdeskLinks](https://img.shields.io/github/issues/fidley/ABAPQuickFix)](https://github.com/fidley/ABAPQuickFix/issues)
 
+- ABAP Project Extensions
+
+    [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) [![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#) [![Language](https://img.shields.io/badge/language-ABAP-blue)](#) [![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/favorites/abap-adt-extensions)](https://marketplace.eclipse.org/content/abap-adt-extensions)
+[![Downloads](https://img.shields.io/eclipse-marketplace/dt/abap-adt-extensions)](https://marketplace.eclipse.org/content/abap-adt-extensions)
+
+  [![fidley - ABAP-Project-Extensions](https://img.shields.io/static/v1?label=fidley&message=ABAP-Project-Extensions&color=blue&logo=github)](https://github.com/fidley/ABAP-Project-Extensions "Go to GitHub repo")
+[![stars - ABAP-Project-Extensions](https://img.shields.io/github/stars/fidley/ABAP-Project-Extensions?style=social)](https://github.com/fidley/ABAP-Project-Extensions)
+[![forks - ABAP-Project-Extensions](https://img.shields.io/github/forks/fidley/ABAP-Project-Extensions?style=social)](https://github.com/fidley/ABAP-Project-Extensions)
+[![License](https://img.shields.io/badge/License-Freeware-blue)](#license)
+[![issues - HelpdeskLinks](https://img.shields.io/github/issues/fidley/ABAP-Project-Extensions)](https://github.com/fidley/ABAP-Project-Extensions/issues)
+
 - Classic Outline
 
     [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) [![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#) [![Language](https://img.shields.io/badge/language-ABAP-blue)](#) [![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/favorites/adt-classic-outline)](https://marketplace.eclipse.org/content/adt-classic-outline)
@@ -56,7 +67,6 @@ Some of my work:
 [![forks - ADT-Classic-Outline-Frontend](https://img.shields.io/github/forks/fidley/ADT-Classic-Outline-Frontend?style=social)](https://github.com/fidley/ADT-Classic-Outline-Frontend)
 [![License](https://img.shields.io/badge/License-Freeware-blue)](#license)
 [![issues - HelpdeskLinks](https://img.shields.io/github/issues/fidley/ADT-Classic-Outline-Frontend)](https://github.com/fidley/ADT-Classic-Outline-Frontend/issues)
-
 
 - Fast Alv Grid
 
