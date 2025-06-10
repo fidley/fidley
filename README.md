@@ -9,7 +9,7 @@ Some of my work:
 
 - Helpdesk Links
 
-  [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) [![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/favorites/helpdesk-links)](https://marketplace.eclipse.org/content/helpdesk-links)
+  [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) [![GitHub top language](https://img.shields.io/github/languages/top/fidley/HelpdeskLinks)](#) [![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/favorites/helpdesk-links)](https://marketplace.eclipse.org/content/helpdesk-links)
  [![Downloads](https://img.shields.io/eclipse-marketplace/dt/helpdesk-links)](https://marketplace.eclipse.org/content/helpdesk-links)
 
    [![fidley - HelpdeskLinks](https://img.shields.io/static/v1?label=fidley&message=HelpdeskLinks&color=blue&logo=github)](https://github.com/fidley/HelpdeskLinks "Go to GitHub repo")
@@ -20,7 +20,7 @@ Some of my work:
 
 - Vertical Tabs
 
-  [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)  [![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/favorites/vertical-tabs)](https://marketplace.eclipse.org/content/vertical-tabs)
+  [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) [![GitHub top language](https://img.shields.io/github/languages/top/fidley/VerticalTabs)](#) [![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/favorites/vertical-tabs)](https://marketplace.eclipse.org/content/vertical-tabs)
 [![Downloads](https://img.shields.io/eclipse-marketplace/dt/vertical-tabs)](https://marketplace.eclipse.org/content/vertical-tabs)
 
   [![fidley - VerticalTabs](https://img.shields.io/static/v1?label=fidley&message=VerticalTabs&color=blue&logo=github)](https://github.com/fidley/VerticalTabs "Go to GitHub repo")
@@ -31,7 +31,7 @@ Some of my work:
 
 - ABAP Favorites
 
-   [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) [![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#) [![Language](https://img.shields.io/badge/language-ABAP-blue)](#) [![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/favorites/abap-favorites)](https://marketplace.eclipse.org/content/abap-favorites)
+   [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) [![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#) [![GitHub top language](https://img.shields.io/github/languages/top/fidley/ABAPFavorites)](#) [![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/favorites/abap-favorites)](https://marketplace.eclipse.org/content/abap-favorites)
 [![Downloads](https://img.shields.io/eclipse-marketplace/dt/abap-favorites)](https://marketplace.eclipse.org/content/abap-favorites)
 
   [![fidley - ABAPFavorites](https://img.shields.io/static/v1?label=fidley&message=ABAPFavorites&color=blue&logo=github)](https://github.com/fidley/ABAPFavorites "Go to GitHub repo")
@@ -42,7 +42,7 @@ Some of my work:
 
 - ABAP QuickFix
 
-   [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) [![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#) [![Language](https://img.shields.io/badge/language-ABAP-blue)](#) [![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/favorites/abap-quick-fix)](https://marketplace.eclipse.org/content/abap-quick-fix)
+   [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) [![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#) [![GitHub top language](https://img.shields.io/github/languages/top/fidley/ABAPQuickFix)](#) [![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/favorites/abap-quick-fix)](https://marketplace.eclipse.org/content/abap-quick-fix)
 [![Downloads](https://img.shields.io/eclipse-marketplace/dt/abap-quick-fix)](https://marketplace.eclipse.org/content/abap-quick-fix)
 
   [![fidley - ABAPQuickFix](https://img.shields.io/static/v1?label=fidley&message=ABAPQuickFix&color=blue&logo=github)](https://github.com/fidley/ABAPQuickFix "Go to GitHub repo")
@@ -53,7 +53,7 @@ Some of my work:
 
 - ABAP Project Extensions
 
-    [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) [![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#) [![Language](https://img.shields.io/badge/language-ABAP-blue)](#) [![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/favorites/abap-adt-extensions)](https://marketplace.eclipse.org/content/abap-adt-extensions)
+    [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) [![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#) [![GitHub top language](https://img.shields.io/github/languages/top/fidley/ABAP-Project-Extensions)](#) [![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/favorites/abap-adt-extensions)](https://marketplace.eclipse.org/content/abap-adt-extensions)
 [![Downloads](https://img.shields.io/eclipse-marketplace/dt/abap-adt-extensions)](https://marketplace.eclipse.org/content/abap-adt-extensions)
 
   [![fidley - ABAP-Project-Extensions](https://img.shields.io/static/v1?label=fidley&message=ABAP-Project-Extensions&color=blue&logo=github)](https://github.com/fidley/ABAP-Project-Extensions "Go to GitHub repo")
@@ -64,7 +64,7 @@ Some of my work:
 
 - Classic Outline
 
-    [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) [![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#) [![Language](https://img.shields.io/badge/language-ABAP-blue)](#) [![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/favorites/adt-classic-outline)](https://marketplace.eclipse.org/content/adt-classic-outline)
+    [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) [![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#) [![GitHub top language](https://img.shields.io/github/languages/top/fidley/ADT-Classic-Outline-Frontend)](#) [![GitHub top language](https://img.shields.io/github/languages/top/fidley/ADT-Classic-Outline-Backend)](#) [![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/favorites/adt-classic-outline)](https://marketplace.eclipse.org/content/adt-classic-outline)
 [![Downloads](https://img.shields.io/eclipse-marketplace/dt/adt-classic-outline)](https://marketplace.eclipse.org/content/adt-classic-outline)
 
   [![fidley - ADT-Classic-Outline-Frontend](https://img.shields.io/static/v1?label=fidley&message=ADT-Classic-Outline-Frontend&color=blue&logo=github)](https://github.com/fidley/ADT-Classic-Outline-Frontend "Go to GitHub repo")
@@ -75,7 +75,7 @@ Some of my work:
 
 - Fast Alv Grid
 
-  [![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#) [![Language](https://img.shields.io/badge/language-ABAP-blue)](#)
+  [![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#) [![GitHub top language](https://img.shields.io/github/languages/top/fidley/falv)](#)
 
   [![fidley - falv](https://img.shields.io/static/v1?label=fidley&message=falv&color=blue&logo=github)](https://github.com/fidley/falv "Go to GitHub repo")
 [![stars - falv](https://img.shields.io/github/stars/fidley/falv?style=social)](https://github.com/fidley/falv)
