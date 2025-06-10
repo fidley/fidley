@@ -16,7 +16,7 @@ Some of my work:
   [![GitHub top language](https://img.shields.io/github/languages/top/fidley/HelpdeskLinks)](#) 
 [![stars - HelpdeskLinks](https://img.shields.io/github/stars/fidley/HelpdeskLinks?style=flat)](https://github.com/fidley/HelpdeskLinks)
 [![forks - HelpdeskLinks](https://img.shields.io/github/forks/fidley/HelpdeskLinks?style=flat)](https://github.com/fidley/HelpdeskLinks)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+![GitHub License](https://img.shields.io/github/license/fidley/HelpdeskLinks)
 [![issues - HelpdeskLinks](https://img.shields.io/github/issues/fidley/HelpdeskLinks)](https://github.com/fidley/HelpdeskLinks/issues)
 
 - Vertical Tabs
@@ -28,7 +28,7 @@ Some of my work:
   [![GitHub top language](https://img.shields.io/github/languages/top/fidley/VerticalTabs)](#) 
 [![stars - VerticalTabs](https://img.shields.io/github/stars/fidley/VerticalTabs?style=flat)](https://github.com/fidley/VerticalTabs)
 [![forks - VerticalTabs](https://img.shields.io/github/forks/fidley/VerticalTabs?style=flat)](https://github.com/fidley/VerticalTabs)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+![GitHub License](https://img.shields.io/github/license/fidley/VerticalTabs)
 [![issues - HelpdeskLinks](https://img.shields.io/github/issues/fidley/VerticalTabs)](https://github.com/fidley/VerticalTabs/issues)
 
 - ABAP Favorites
@@ -40,7 +40,7 @@ Some of my work:
   [![GitHub top language](https://img.shields.io/github/languages/top/fidley/ABAPFavorites)](#)
 [![stars - ABAPFavorites](https://img.shields.io/github/stars/fidley/ABAPFavorites?style=flat)](https://github.com/fidley/ABAPFavorites)
 [![forks - ABAPFavorites](https://img.shields.io/github/forks/fidley/ABAPFavorites?style=flat)](https://github.com/fidley/ABAPFavorites)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+![GitHub License](https://img.shields.io/github/license/fidley/ABAPFavorites)
 [![issues - HelpdeskLinks](https://img.shields.io/github/issues/fidley/ABAPFavorites)](https://github.com/fidley/ABAPFavorites/issues)
 
 - ABAP QuickFix
@@ -52,7 +52,7 @@ Some of my work:
   [![GitHub top language](https://img.shields.io/github/languages/top/fidley/ABAPQuickFix)](#)
 [![stars - ABAPQuickFix](https://img.shields.io/github/stars/fidley/ABAPQuickFix?style=flat)](https://github.com/fidley/ABAPQuickFix)
 [![forks - ABAPQuickFix](https://img.shields.io/github/forks/fidley/ABAPQuickFix?style=flat)](https://github.com/fidley/ABAPQuickFix)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+![GitHub License](https://img.shields.io/github/license/fidley/ABAPQuickFix)
 [![issues - HelpdeskLinks](https://img.shields.io/github/issues/fidley/ABAPQuickFix)](https://github.com/fidley/ABAPQuickFix/issues)
 
 - ABAP Project Extensions
@@ -64,7 +64,7 @@ Some of my work:
   [![GitHub top language](https://img.shields.io/github/languages/top/fidley/ABAP-Project-Extensions)](#) 
 [![stars - ABAP-Project-Extensions](https://img.shields.io/github/stars/fidley/ABAP-Project-Extensions?style=flat)](https://github.com/fidley/ABAP-Project-Extensions)
 [![forks - ABAP-Project-Extensions](https://img.shields.io/github/forks/fidley/ABAP-Project-Extensions?style=flat)](https://github.com/fidley/ABAP-Project-Extensions)
-[![License](https://img.shields.io/badge/License-Freeware-blue)](#license)
+![GitHub License](https://img.shields.io/github/license/fidley/ABAP-Project-Extensions)
 [![issues - HelpdeskLinks](https://img.shields.io/github/issues/fidley/ABAP-Project-Extensions)](https://github.com/fidley/ABAP-Project-Extensions/issues)
 
 - Classic Outline
@@ -76,14 +76,14 @@ Some of my work:
   [![GitHub top language](https://img.shields.io/github/languages/top/fidley/ADT-Classic-Outline-Frontend)](#) 
 [![stars - ADT-Classic-Outline-Frontend](https://img.shields.io/github/stars/fidley/ADT-Classic-Outline-Frontend?style=flat)](https://github.com/fidley/ADT-Classic-Outline-Frontend)
 [![forks - ADT-Classic-Outline-Frontend](https://img.shields.io/github/forks/fidley/ADT-Classic-Outline-Frontend?style=flat)](https://github.com/fidley/ADT-Classic-Outline-Frontend)
-[![License](https://img.shields.io/badge/License-Freeware-blue)](#license)
+![GitHub License](https://img.shields.io/github/license/fidley/ADT-Classic-Outline-Frontend)
 [![issues - HelpdeskLinks](https://img.shields.io/github/issues/fidley/ADT-Classic-Outline-Frontend)](https://github.com/fidley/ADT-Classic-Outline-Frontend/issues)
 
   [![fidley - ADT-Classic-Outline-Backend](https://img.shields.io/static/v1?label=fidley&message=ADT-Classic-Outline-Backend&color=blue&logo=github)](https://github.com/fidley/ADT-Classic-Outline-Backend "Go to GitHub repo")
   [![GitHub top language](https://img.shields.io/github/languages/top/fidley/ADT-Classic-Outline-Backend)](#)
 [![stars - ADT-Classic-Outline-Backend](https://img.shields.io/github/stars/fidley/ADT-Classic-Outline-Backend?style=flat)](https://github.com/fidley/ADT-Classic-Outline-Backend)
 [![forks - ADT-Classic-Outline-Backend](https://img.shields.io/github/forks/fidley/ADT-Classic-Outline-Backend?style=flat)](https://github.com/fidley/ADT-Classic-Outline-Backend)
-[![License](https://img.shields.io/badge/License-Freeware-blue)](#license)
+![GitHub License](https://img.shields.io/github/license/fidley/ADT-Classic-Outline-Backend)
 [![issues - HelpdeskLinks](https://img.shields.io/github/issues/fidley/ADT-Classic-Outline-Backend)](https://github.com/fidley/ADT-Classic-Outline-Backend/issues)
 
 - Fast Alv Grid
@@ -94,7 +94,7 @@ Some of my work:
   [![GitHub top language](https://img.shields.io/github/languages/top/fidley/falv)](#)
 [![stars - falv](https://img.shields.io/github/stars/fidley/falv?style=flat)](https://github.com/fidley/falv)
 [![forks - falv](https://img.shields.io/github/forks/fidley/falv?style=flat)](https://github.com/fidley/falv)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+![GitHub License](https://img.shields.io/github/license/fidley/falv)
 [![issues - HelpdeskLinks](https://img.shields.io/github/issues/fidley/falv)](https://github.com/fidley/falv/issues)
 
 <!--
